@@ -1,4 +1,4 @@
-# Burlesque_Theatres_DTLA
+# Burlesque Theatres DTLA Timelines
 
 # GLOBE THEATRE
 
